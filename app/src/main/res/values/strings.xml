@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">DemoCrud</string>
+    <string name="app_title">Demo CRUD</string>
+    <string name="view_detail">Student Detail</string>
+    <string name="view_all">List Student</string>
+
+    <string name="btn_add">Add</string>
+    <string name="btn_update">Update</string>
+    <string name="btn_delete">Delete</string>
+    <string name="btn_back">Back</string>
+    <string name="btn_search">Search</string>
+    <string name="btn_view">View all</string>
+
+    <string name="detail_id">ID</string>
+    <string name="detail_name">Name</string>
+    <string name="detail_age">Age</string>
+
+    <string name="search_age">Search age: </string>
+</resources>
